@@ -1,12 +1,12 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { View, Text } from 'react-native';
+import React from 'react';
 
-const Inbox = () => {
+const Page = () => {
   return (
     <View>
-      <Text>Inbox</Text>
+      <Text>Page</Text>
     </View>
-  )
-}
+  );
+};
 
-export default Inbox
+export default Page;

@@ -1,12 +1,12 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { View, Text } from 'react-native';
+import React from 'react';
 
-const Trips = () => {
+const Page = () => {
   return (
     <View>
-      <Text>Trips</Text>
+      <Text>Page</Text>
     </View>
-  )
-}
+  );
+};
 
-export default Trips
+export default Page;
